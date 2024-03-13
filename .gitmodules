@@ -1,0 +1,3 @@
+[submodule "csed451-assn1"]
+	path = csed451-assn1
+	url = git@github.com:minsusun/csed451-assn1.git
