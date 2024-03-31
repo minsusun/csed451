@@ -1,0 +1,3 @@
+[submodule "assn2"]
+	path = assn2
+	url = git@github.com:minsusun/csed451-assn-sridoo.git
