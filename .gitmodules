@@ -4,3 +4,6 @@
 [submodule "assn1"]
 	path = assn1
 	url = git@github.com:minsusun/csed451-assn-sridoo.git
+[submodule "assn3-1"]
+	path = assn3-1
+	url = git@github.com:sridoo/Graphics_Assn_1.git
