@@ -7,3 +7,6 @@
 [submodule "assn3-1"]
 	path = assn3-1
 	url = git@github.com:sridoo/Graphics_Assn_1.git
+[submodule "assn3-2"]
+	path = assn3-2
+	url = https://github.com/sridoo/Graphics_Assn_1/
